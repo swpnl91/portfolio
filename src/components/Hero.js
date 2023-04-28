@@ -28,7 +28,7 @@ const Hero = () => {
             <br />
             To know more about my technical skills, check out my <a
               className="border-b-[3px] w-[50px] border-green-300"
-              href="https://drive.google.com/file/d/1KhjNIxTUZ3L0ma-EMzYG_bWHFZbVR6XE/view"
+              href="https://drive.google.com/file/d/105Pwgvkh5VeqIMBZmj7PUnjNuSkt61Hh/view"
               target="_blank"
               without
               rel="noreferrer"
